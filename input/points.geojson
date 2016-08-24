@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id": 1,
+                     "name": "Indian Ocean"
+                    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15625,
+          -22.91792293614602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2,
+                     "name": "Atlantic Ocean"
+                    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.96875,
+          17.644022027872726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3,
+                     "name": "Pacific Ocean"
+                    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.1796875,
+          1.4061088354351594
+        ]
+      }
+    }
+  ]
+}
